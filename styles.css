@@ -1,0 +1,42 @@
+/* Reset de estilos básicos */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do cabeçalho e do menu de navegação */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilo das seções */
+section {
+    padding: 40px;
+}
+
+/* Estilo do formulário de contato */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Outros estilos personalizados */
+/* Adicione seus estilos personalizados aqui */
